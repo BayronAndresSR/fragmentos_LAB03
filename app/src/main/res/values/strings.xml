@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LAB03</string>
+    <string name="title1">TRANSFORMER VI</string>
+    <string name="article1">Transformers es una película de acción y ciencia ficción estadounidense de 2007 basada en la línea de juguetes de Transformers. La cinta, que combina animación por computadora con acción en vivo, fue dirigida por Michael Bay, con Steven Spielberg </string>
+    <string name="title2">AVENGERS END GAME</string>
+    <string name="article2">Marvel The Avengers4​ (titulada The Avengers: Los Vengadores en Hispanoamérica y Marvel: Los Vengadores en España), o simplemente The Avengers</string>
+
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="question_article">Vota por Tu Pelicula Favorita</string>
+
+    <string name="open">Abrir</string>
+    <string name="cerrar">Close</string>
+
+    <string name="exception_message">Es necesario implementar la interfaz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_txt">Indique su opcion</string>
+    <string name="close">Cerrar</string>
+    <string name="Votar">Votar</string>
+    <string name="SELECCION1">Usted Selecciono Transformers</string>
+    <string name="SELECCION2">Usted Selecciono Avengers</string>
+
+</resources>
